@@ -4,15 +4,15 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 
 #### Dividimos a introdução em cinco partes:
 
-Para começar, você vai estudar um famoso tipo de sistema operacional chamado Unix. Para isso, vamos colocar a mão na massa e executar alguns comandos no terminal.
+- Para começar, você vai estudar um famoso tipo de sistema operacional chamado Unix. Para isso, vamos colocar a mão na massa e executar alguns comandos no terminal.
 
-Depois de entender como os comandos funcionam e ter criado seus primeiros scripts, você vai aprender a usar o Git para guardá-los de forma segura.
+- Depois de entender como os comandos funcionam e ter criado seus primeiros scripts, você vai aprender a usar o Git para guardá-los de forma segura.
 
-Em seguida, vai começar a parte mais divertida: o desenvolvimento web. Aqui, você vai estruturar documentos HTML, estilizá-los com o CSS e criar comportamentos customizados com o JavaScript.
+- Em seguida, vai começar a parte mais divertida: o desenvolvimento web. Aqui, você vai estruturar documentos HTML, estilizá-los com o CSS e criar comportamentos customizados com o JavaScript.
 
-Após esse ciclo, você aprenderá sobre a criação de sites responsivos com CSS elegante e eficiente.
+- Após esse ciclo, você aprenderá sobre a criação de sites responsivos com CSS elegante e eficiente.
 
-Por fim, vai aprender a utilizar o JavaScript integralmente, incluindo HOF, código assíncrono, testes unitários e outros recursos avançados.
+- Por fim, vai aprender a utilizar o JavaScript integralmente, incluindo HOF, código assíncrono, testes unitários e outros recursos avançados.
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
@@ -24,7 +24,7 @@ Por fim, vai aprender a utilizar o JavaScript integralmente, incluindo HOF, cód
 
 ##### Seção 2: Introdução à HTML e CSS
 
-- [ ] 2-1: _HTML & CSS - Estruturas de página_
+- [X] 2-1: _HTML & CSS - Estruturas de página_
 - [ ] 2-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 2-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 2-4: _HTML Semântico_
