@@ -1,3 +1,5 @@
+# Seção 1
+
 _Unix é um sistema operacional de computador criado na década de 1970, que é conhecido por sua estabilidade, segurança e flexibilidade._
 
 _Shell é uma interface de linha de comando que permite aos usuários interagir com o sistema operacional, executar comandos e automatizar tarefas._

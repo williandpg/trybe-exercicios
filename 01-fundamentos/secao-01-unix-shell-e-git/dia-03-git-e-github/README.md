@@ -1,1 +1,3 @@
-GitHub é tipo o "clube da luta" para desenvolvedores de software, onde todos os membros compartilham seus projetos e lutam juntos para melhorá-los. É onde os nerds se reúnem para discutir código, compartilhar memes engraçados e mostrar suas habilidades ninja em programação. Mas não se preocupe, a primeira regra do GitHub não é: "Não fale sobre o GitHub". Na verdade, é incentivado que você fale sobre o GitHub para que mais pessoas possam se juntar ao clube!
+# Dia 3
+
+_GitHub é tipo o "clube da luta" para desenvolvedores de software, onde todos os membros compartilham seus projetos e lutam juntos para melhorá-los. É onde os nerds se reúnem para discutir código, compartilhar memes engraçados e mostrar suas habilidades ninja em programação. Mas não se preocupe, a primeira regra do GitHub não é: "Não fale sobre o GitHub". Na verdade, é incentivado que você fale sobre o GitHub para que mais pessoas possam se juntar ao clube!_
