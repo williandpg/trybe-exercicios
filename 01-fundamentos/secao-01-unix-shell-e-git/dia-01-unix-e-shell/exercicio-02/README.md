@@ -1,8 +1,6 @@
 # Criação de arquivos e diretórios
 
-_De olho na dica 👀: Para a criação de arquivos vazios, você pode utilizar o comando `touch nome-do-arquivo.extensao`._
-
-## Exercícios
+Para a criação de arquivos vazios, você pode utilizar o comando `touch nome-do-arquivo.extensao`.
 
 - Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu: crie um diretório chamado `unix_tests` e navegue até ele.
 
@@ -30,7 +28,7 @@ _De olho na dica 👀: Para a criação de arquivos vazios, você pode utilizar 
 
 - Limpe o terminal.
 
-_De olho na dica 👀: Para os próximos exercícios, crie manualmente na parte gráfica do seu sistema operacional (com o mouse) um arquivo de texto chamado `skills.txt` com o conteúdo abaixo._
+Para os próximos exercícios, crie manualmente na parte gráfica do seu sistema operacional (com o mouse) um arquivo de texto chamado `skills.txt` com o conteúdo abaixo.
 
 ```sh
 Internet
@@ -43,11 +41,7 @@ React
 SQL
 ```
 
-## Exercícios
-
 - Mostre na tela as 5 primeiras skills do arquivo `skills.txt`.
-
-_De olho na dica 👀: Caso você não tenha conseguido fazer esse exercício, reforce seus estudos sobre comandos do `shell`, `manual` e `flags`._
 
 - Mostre na tela as 4 últimas skills do arquivo `skills.txt`.
 
