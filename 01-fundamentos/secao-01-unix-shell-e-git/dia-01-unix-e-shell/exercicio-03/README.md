@@ -2,9 +2,7 @@
 
 ## Parte I
 
-_De olho na dica 👀: Crie um novo diretório chamado `unix_tests_search` e navegue até ele._
-
-Na pasta `unix_tests_search`, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando `curl`. Conheça mais sobre esse comando nesse [link](https://linux.die.net/man/1/curl).
+Na pasta `unix_tests_search`, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando `curl`.
 
 ```sh
 mkdir unix_tests_search
@@ -20,15 +18,13 @@ curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efc
 
 ## Parte II
 
-_De olho na dica 👀: Crie um novo arquivo chamado `phrases.txt` e adicione algumas frases à sua escolha. Não é necessário criar o arquivo pelo terminal._
+Crie um novo arquivo chamado `phrases.txt` e adicione algumas frases à sua escolha. Não é necessário criar o arquivo pelo terminal.
 
 - Busque pelas frases que não contenham a palavra `fox`.
 - Conte o número de palavras do arquivo `phrases.txt`.
 - Conte o número de linhas do arquivo `phrases.txt`.
 
 ## Parte III
-
-_De olho na dica 👀: Para contar o número de caracteres de um arquivo, não use `wc -c`, e sim `wc -m`._
 
 - Crie os arquivos `empty.tbt` e `empty.pdf`.
 - Liste todos os arquivos do diretório `unix_tests_search`.
