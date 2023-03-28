@@ -8,4 +8,4 @@ _CSS (Cascading Style Sheets) é uma linguagem utilizada para estilizar o conte�
 - [X] 2-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 2-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 2-4: _HTML Semântico_
-- [ ] 2-5: _Projeto - Lessons Learned_
+- [X] 2-5: _Projeto - Lessons Learned_
