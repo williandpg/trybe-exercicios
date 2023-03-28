@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 16px;
+    color: #323f3a;
+}
+
+.trybe-green {
+    color: #11a36a;
+}
+
+#main-tittle {
+    line-height: 55px;
+    font-weight: 600;
+    text-align: left;
+    letter-spacing: -1px;
+}
+
+.section-title {
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.testimonial-name {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.testimonial-photo {
+    border-radius: 100px;
+    width: 120px;
+}
+
+.button {
+    background-color: #11a36a;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#header {
+    background-image: url('/01-fundamentos/secao-02-introducao-a-html-e-css/dia-03-html-e-css-seletores-e-posicionamento/exercicio-08/img/smiling-image.jpg');
+    background-position: 50% 25%;
+    background-size: cover;
+    padding: 50px 30px 70px 20px;
+}
+
+#header-content {
+    max-width: 600px;
+}
+
+#header-text p {
+    margin-bottom: 30px;
+}
+
+#student-testimonial {
+    padding: 10px;
+}
+
+.student-content {
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    padding: 1.1%;
+}
+
+#learning {
+    padding: 50px;
+}
+
+#learning-left {
+    float: left;
+    width: 50%;
+}
+
+#learning-right {
+    float: right;
+}
+
+#final {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+}
+
+#final h4 {
+    padding-bottom: 50px;
+}
