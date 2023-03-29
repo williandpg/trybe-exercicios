@@ -1,0 +1,3 @@
+# Academia de Lógica - Trybe :rocket:
+
+_A Academia de Lógica pela Trybe oferece uma variedade de exercícios e desafios para ajudar os estudantes a melhorar suas habilidades de pensamento crítico e raciocínio lógico. Esses exercícios e desafios são projetados para desafiar os estudantes a pensar de forma crítica e analítica sobre problemas complexos, usando diferentes técnicas de raciocínio lógico._
