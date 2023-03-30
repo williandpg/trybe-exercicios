@@ -1,6 +1,6 @@
-let estatus = "aprovada";
+let status = "aprovada";
 
-switch (estatus) {
+switch (status) {
     case "aprovada":
         console.log("Parabéns, você está no grupo de pessoas aprovadas!");
         break;
