@@ -23,7 +23,7 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 - [X] 3-1: _JavaScript - Primeiros Passos_
 - [X] 3-2: _JavaScript - Array e loop For_
 - [X] 3-3: _JavaScript - Funções_
-- [ ] 3-4: _JavaScript - Objetos_
+- [X] 3-4: _JavaScript - Objetos_
 - [ ] 3-5: _JavaScript ES6- let, const, arrow functions e template literals_
 - [ ] 3-6: _Projeto - Playground Functions_
 
