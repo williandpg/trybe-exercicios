@@ -1,0 +1,1 @@
+Adicione suas informações ao objeto `student = {}`, como nome, e-mail, telefone, GitHub e LinkedIn, usando os métodos abordados no conteúdo.
