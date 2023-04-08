@@ -29,7 +29,7 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 
 ##### Seção 4 - JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 4-1: _JavaScript - DOM e seletores_
+- [X] 4-1: _JavaScript - DOM e seletores_
 - [ ] 4-2: _JavaScript - Trabalhando com elementos_
 - [ ] 4-3: _JavaScript - Eventos_
 - [ ] 4-4: _JavaScript - Web Storage_
