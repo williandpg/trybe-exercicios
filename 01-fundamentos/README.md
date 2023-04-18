@@ -38,7 +38,7 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 
 ##### Seção 5 - HTML e CSS: Forms, Flexbox e Responsivo 📚
 
-- [ ] 5-1: _HTML & CSS - Forms_
+- [X] 5-1: _HTML & CSS - Forms_
 - [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 5-3: _CSS Flexbox - Parte 1_
 - [ ] 5-4: _CSS Flexbox - Parte 2_
