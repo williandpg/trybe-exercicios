@@ -1,0 +1,1 @@
+Utilizando o código abaixo, teste as possibilidades (center, flex-start, flex-end, stretch e baseline) para a propriedade align-items. Não se esqueça de copiar o código abaixo! 😉

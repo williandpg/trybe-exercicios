@@ -1,0 +1,1 @@
+Utilizando o código abaixo, teste as possibilidades (center, flex-start, flex-end, stretch, space-around e space-between) para a propriedade align-content.
