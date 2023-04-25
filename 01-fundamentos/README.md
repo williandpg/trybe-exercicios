@@ -36,16 +36,16 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 - [X] 4-5: _Projeto - Arte com Pixels_
 - [X] 4-6: _Projetos - Bônus_
 
-##### Seção 5 - HTML e CSS: Forms, Flexbox e Responsivo 📚
+##### Seção 5 - HTML e CSS: Forms, Flexbox e Responsivo ✅
 
 - [X] 5-1: _HTML & CSS - Forms_
-- [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 5-3: _CSS Flexbox - Parte 1_
-- [ ] 5-4: _CSS Flexbox - Parte 2_
-- [ ] 5-5: _CSS Responsivo - Mobile First_
-- [ ] 5-6: _Projeto - Trybewarts_
+- [X] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 5-3: _CSS Flexbox - Parte 1_
+- [X] 5-4: _CSS Flexbox - Parte 2_
+- [X] 5-5: _CSS Responsivo - Mobile First_
+- [X] 5-6: _Projeto - Trybewarts_
 
-##### Seção 6 - Introdução à JavaScript ES6 e Testes Unitários
+##### Seção 6 - Introdução à JavaScript ES6 e Testes Unitários 📚
 
 - [ ] 6-1: _Fluxo de execeções e manipulação de objetos_
 - [ ] 6-2: _Primeiros passos em Jest_
