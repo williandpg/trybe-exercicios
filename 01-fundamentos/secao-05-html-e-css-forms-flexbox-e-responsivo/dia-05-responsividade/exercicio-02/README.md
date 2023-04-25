@@ -19,7 +19,7 @@ Adicione um pouco de margin na página.
 
 Bora mexer na responsividade do nosso site? Antes iremos determinar um padrão de tamanho para cada dispositivo.
 
-sh```
+```sh
 max-width: 600px: Telas de celular. (Mobile devices)
 min-width: 600px: iPads, Tablets
 min-width: 768px: Telas menores, laptops
