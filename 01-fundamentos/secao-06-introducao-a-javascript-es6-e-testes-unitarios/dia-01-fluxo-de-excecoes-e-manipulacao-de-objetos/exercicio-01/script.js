@@ -1,12 +1,17 @@
-# Exercícios - agora, a prática
+// Primeira parte
+const promo = [
+  {product: 'bola de beach tennis', price: 29.99},
+  {product: 'mochila de trilha 20 litros', price: 120.99},
+  {product: 'capacete de ciclista', price: 180.59},
+  {product: 'toalha compacta de secagem', price: 39.99},
+  {product: 'kit 5 camisetas Dry Fit', price: 99.99},
+  {product: 'caneleiras de peso - 3kg (par)', price: 44.99},
+  {product: 'bola de ginástica e pilates', price: 149.59},
+  {product: 'óculos de natação', price: 18.99},
+  {product: 'capa protetora de prancha de surf', price: 89.59},
+  {product: 'bola de basquete', price: 39.99},
+];
 
-Adicione uma propriedade flex-basis ao container do logotipo com o tamanho de 268px, e para o container do menu adicione a mesma propriedade com o tamanho de 500px. 
-
-Adicione uma propriedade Flexbox que modifique a ordem em que o logo e os itens do menu aparecem na tela. 
-
-Adicione uma propriedade Flexbox que faça o container do menu crescer, quando houver espaço disponível. 
-
-Utilize a propriedade align-self no elemento correto para que o header da página tenha o seguinte comportamento:
 const button = document.querySelector('#send-button');
 
 button.addEventListener('click', () => {
