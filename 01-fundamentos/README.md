@@ -55,8 +55,8 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 ##### Seção 7 - Higher Order Functions do JavaScript ES6 📚
 
 - [X] 7-1: _Introdução ao Higher Order Functions_
-- [ ] 7-2: _Higher Order Functions - sort e map_
-- [ ] 7-3: _Higher Order Functions - filter e reduce_
+- [X] 7-2: _Higher Order Functions - sort e map_
+- [X] 7-3: _Higher Order Functions - filter e reduce_
 - [ ] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
 - [ ] 7-5: _JavaScript ES6 - Array destructuring, default destructuring, object property shorthand e default parameters_
 - [ ] 7-6: _Projeto - Zoo Functions_
