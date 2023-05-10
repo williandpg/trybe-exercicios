@@ -2,7 +2,7 @@
 
 _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar sua carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. Vamos te guiar, etapa a etapa, por toda essa jornada!_
 
-## 1 - Fundamentos do desenvolvimento :hourglass_flowing_sand:
+## 1 - Fundamentos do desenvolvimento ✅
 
 ##### Seção 1: Unix, Shell e Git ✅
 
@@ -52,11 +52,11 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 - [X] 6-3: _Matchers e cobertura de código_
 - [X] 6-4: _Projeto - JavaScript Testes Unitários_
 
-##### Seção 7 - Higher Order Functions do JavaScript ES6 📚
+##### Seção 7 - Higher Order Functions do JavaScript ES6 ✅
 
 - [X] 7-1: _Introdução ao Higher Order Functions_
 - [X] 7-2: _Higher Order Functions - sort e map_
 - [X] 7-3: _Higher Order Functions - filter e reduce_
-- [ ] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
-- [ ] 7-5: _JavaScript ES6 - Array destructuring, default destructuring, object property shorthand e default parameters_
-- [ ] 7-6: _Projeto - Zoo Functions_
+- [X] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
+- [X] 7-5: _JavaScript ES6 - Array destructuring, default destructuring, object property shorthand e default parameters_
+- [X] 7-6: _Projeto - Zoo Functions_
