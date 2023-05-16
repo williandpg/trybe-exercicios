@@ -1,3 +1,5 @@
+# Dia 03
+
 _Higher Order Functions em JavaScript, como o filter e o reduce, são como detetives habilidosos em busca de pistas nos seus dados._
 
 _O filter é como um detetive que analisa uma lista de suspeitos e escolhe apenas aqueles que se encaixam em um perfil específico. Ele filtra os elementos de uma lista de acordo com uma condição definida por você, como um detetive que descobre a identidade do criminoso com base em pistas._

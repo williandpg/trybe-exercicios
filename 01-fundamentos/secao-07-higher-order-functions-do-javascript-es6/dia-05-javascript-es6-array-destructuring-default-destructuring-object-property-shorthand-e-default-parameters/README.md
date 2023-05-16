@@ -1,3 +1,5 @@
+# Dia 05
+
 _JavaScript ES6 traz algumas novidades incríveis, como o Array destructuring, o default destructuring, o object property shorthand e os default parameters. São como ferramentas poderosas que ajudam você a trabalhar com dados de forma mais fácil e rápida!_
 
 _O Array destructuring é como um quebra-cabeça que se encaixa perfeitamente. Com ele, você pode extrair valores de uma array e atribuí-los a variáveis individuais, como se estivesse montando um quebra-cabeça. É como pegar um bolo e dividi-lo em fatias para compartilhar com seus amigos!_

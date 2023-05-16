@@ -1,3 +1,5 @@
+# Dia 04
+
 _JavaScript ES6 tem algumas ferramentas incríveis, como o spread operator, os rest parameters e a destructuring de objetos. São como superpoderes que ajudam você a lidar com dados de uma forma mais rápida e fácil!_
 
 _O spread operator é como uma varinha mágica que ajuda você a espalhar seus elementos em outros lugares, como um mágico que espalha pombos pela plateia. Com ele, você pode espalhar elementos de uma array em outra array, ou mesmo em um objeto, como se estivesse criando uma nuvem de dados!_
