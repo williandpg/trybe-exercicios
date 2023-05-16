@@ -1,4 +1,4 @@
-# Dia 2
+# Dia 02
 
 _Dar os primeiros passos em CSS pode ser como tentar aprender a dançar. Você coloca seus pés nos lugares errados, seus braços ficam presos em posições estranhas e você acaba parecendo um pato desajeitado. Mas não se preocupe, todo mundo já foi um pato desajeitado em algum momento._
 

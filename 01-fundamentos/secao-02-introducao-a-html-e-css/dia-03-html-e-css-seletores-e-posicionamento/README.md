@@ -1,4 +1,4 @@
-# Dia 3
+# Dia 03
 
 _Seletores em HTML e CSS são como os feijões mágicos do Jack - eles te levam para onde você quer ir, mas você precisa saber escolher o certo._
 

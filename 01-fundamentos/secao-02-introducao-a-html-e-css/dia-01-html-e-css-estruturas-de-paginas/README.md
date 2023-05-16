@@ -1,4 +1,4 @@
-# Dia 1
+# Dia 01
 
 _Bem, HTML é como a estrutura óssea de um site - é a base sólida que dá suporte a tudo. É como o esqueleto de um site, se você quiser. E o CSS é como as roupas que você veste sobre o esqueleto - é o que faz com que o site pareça bonito e apresentável, como uma roupa bem feita._
 

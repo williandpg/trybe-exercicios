@@ -1,4 +1,4 @@
-# Dia 1
+# Dia 01
 
 _Unix é tipo um avô sábio e experiente na programação de computadores, que ensinou várias gerações de sistemas operacionais. Ele é um sistema operacional de código aberto, criado nos anos 60, que se tornou a base de muitos sistemas operacionais modernos._
 

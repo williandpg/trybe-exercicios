@@ -1,4 +1,4 @@
-# Seção 1
+# Seção 01
 
 _Unix é um sistema operacional de computador criado na década de 1970, que é conhecido por sua estabilidade, segurança e flexibilidade._
 
