@@ -1,4 +1,4 @@
-# Dia 5
+# Dia 05
 
 _JavaScript arrow functions e templates literals são como mágicos digitais com uma varinha mágica superpoderosa!_
 

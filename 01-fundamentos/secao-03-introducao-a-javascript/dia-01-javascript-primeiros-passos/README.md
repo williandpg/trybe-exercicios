@@ -1,4 +1,4 @@
-# Dia 1
+# Dia 01
 
 _Os primeiros passos em JavaScript podem ser como aprender a andar de bicicleta - você pode cair algumas vezes antes de conseguir pedalar com segurança._
 
