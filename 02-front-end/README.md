@@ -7,12 +7,12 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 ##### Seção 1: Introdução ao Front-end e JavaScript assíncrono
 - [X] 1.1: _Ambiente de desenvolvimento_
 - [X] 1.2: _JavaScript Assíncrono - Promises e fetch_
-- [ ] 1.3: _Prática - Casa de câmbio_
-- [ ] 1.4: _Async, await e testes assíncronos_
-- [ ] 1.5: _Projeto - Carrinho de compras_
+- [X] 1.3: _Prática - Casa de câmbio_
+- [X] 1.4: _Async, await e testes assíncronos_
+- [X] 1.5: _Projeto - Carrinho de compras_
 
 ##### Seção 2: Introdução ao React
-- [ ] 2.1: _'Hello, world!' no React_
+- [X] 2.1: _'Hello, world!' no React_
 - [ ] 2.2: _Componentes React_
 - [ ] 2.3: _Projeto - Solar System_
 
