@@ -13,8 +13,8 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 
 ##### Seção 2: Introdução ao React
 - [X] 2.1: _'Hello, world!' no React_
-- [ ] 2.2: _Componentes React_
-- [ ] 2.3: _Projeto - Solar System_
+- [X] 2.2: _Componentes React_
+- [X] 2.3: _Projeto - Solar System_
 
 ##### Seção 3: Componentes com Estado, Eventos e Formulários com React
 - [ ] 3.1: _Componentes com estado e eventos_

@@ -72,12 +72,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.4: _Async, await e testes assíncronos_
 - [X] 1.5: _Projeto - iChoveu_
 
-##### Seção 2: Introdução ao React 📚
-- [ ] 2.1: _'Hello, world!' no React_
-- [ ] 2.2: _Componentes React_
-- [ ] 2.3: _Projeto - Solar System_
+##### Seção 2: Introdução ao React ✅
+- [X] 2.1: _'Hello, world!' no React_
+- [X] 2.2: _Componentes React_
+- [X] 2.3: _Projeto - Solar System_
 
-##### Seção 3: Componentes com Estado, Eventos e Formulários com React
+##### Seção 3: Componentes com Estado, Eventos e Formulários com React 📚
 - [ ] 3.1: _Componentes com estado e eventos_
 - [ ] 3.2: _Formulários no React_
 - [ ] 3.3: _Projeto - Tryunfo_
