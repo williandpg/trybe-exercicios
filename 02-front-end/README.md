@@ -17,8 +17,8 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 - [X] 2.3: _Projeto - Solar System_
 
 ##### Seção 3: Componentes com Estado, Eventos e Formulários com React
-- [ ] 3.1: _Componentes com estado e eventos_
-- [ ] 3.2: _Formulários no React_
+- [X] 3.1: _Componentes com estado e eventos_
+- [X] 3.2: _Formulários no React_
 - [ ] 3.3: _Projeto - Tryunfo_
 
 ##### Seção 4: Ciclo de Vida de Componentes e React Router
