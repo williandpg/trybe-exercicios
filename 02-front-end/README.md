@@ -16,15 +16,16 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 - [X] 2.2: _Componentes React_
 - [X] 2.3: _Projeto - Solar System_
 
-##### Seção 3: Componentes com Estado, Eventos e Formulários com React
+##### Seção 3: Componentes com Estado, Eventos e Formulários com React ✅
 - [X] 3.1: _Componentes com estado e eventos_
 - [X] 3.2: _Formulários no React_
 - [X] 3.3: _Projeto - Password Manager_
 
-##### Seção 4: Ciclo de Vida de Componentes e React Router
-- [ ] 4.1: _Ciclo de vida de componentes_
-- [ ] 4.2: _React Router_
-- [ ] 4.3: _Projeto - TrybeTunes_
+##### Seção 4: Ciclo de Vida de Componentes e React Router 📚
+- [X] 4.1: _React Router_
+- [ ] 4.2: _useEffect_
+- [ ] 4.3: _Prática - Clonando o Twitter_
+- [ ] 4.4: _Projeto - TrybeTunes_
 
 ##### Seção 5: Metodologias Ágeis
 - [ ] 5.1: _Metodologias Ágeis_
