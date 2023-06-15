@@ -23,9 +23,9 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 
 ##### Seção 4: Ciclo de Vida de Componentes e React Router 📚
 - [X] 4.1: _React Router_
-- [ ] 4.2: _useEffect_
-- [ ] 4.3: _Prática - Clonando o Twitter_
-- [ ] 4.4: _Projeto - TrybeTunes_
+- [X] 4.2: _useEffect_
+- [X] 4.3: _Prática - Clonando o Twitter_
+- [X] 4.4: _Projeto - TrybeTunes_
 
 ##### Seção 5: Metodologias Ágeis
 - [ ] 5.1: _Metodologias Ágeis_
