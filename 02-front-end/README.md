@@ -29,9 +29,9 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 
 ##### Seção 5: Testes automatizados com React Testing Library 📚
 - [X] 5.1: _RTL - Primeiros passos_
-- [ ] 5.2: _RTL - Mocks e Inputs_
-- [ ] 5.3: _RTL - Testando React Router_
-- [ ] 5.4: _Projeto - Testes em React_
+- [X] 5.2: _RTL - Mocks e Inputs_
+- [X] 5.3: _RTL - Testando React Router_
+- [X] 5.4: _Projeto - Testes em React_
 
 ##### Seção 6: Metodologias Ágeis
 - [ ] 6.1: _Metodologias Ágeis_
