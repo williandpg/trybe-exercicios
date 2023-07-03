@@ -65,60 +65,60 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## 2 - Desenvolvimento Front-end 📚
 
-##### Seção 1: Introdução ao Front-end e JavaScript assíncrono ✅
+##### Seção 1: Introdução ao Front-end e JavaScript assíncrono
 - [X] 1.1: _Ambiente de desenvolvimento_
 - [X] 1.2: _JavaScript Assíncrono - Promises e fetch_
 - [X] 1.3: _Prática - Casa de câmbio_
 - [X] 1.4: _Async, await e testes assíncronos_
 - [X] 1.5: _Projeto - iChoveu_
 
-##### Seção 2: Introdução ao React ✅
-- [X] 2.1: _'Hello, world!' no React_
-- [X] 2.2: _Componentes React_
-- [X] 2.3: _Projeto - Solar System_
+##### Seção 2: Introdução ao React
+- [X] 2.1: _Introdução ao React e ao Typescript_
+- [X] 2.2: _Componentes React e Props_
+- [X] 2.3: _Avançando em componentes_
+- [X] 2.4: _Prática - Solar System_
+- [X] 2.5: _Estados e eventos_
+- [X] 2.6: _Formulários_
+- [X] 2.7: _Prática - Store Back Office_
+- [X] 2.8: _Projeto - Password Manager_
 
-##### Seção 3: Componentes com Estado, Eventos e Formulários com React ✅
-- [X] 3.1: _Componentes com estado e eventos_
-- [X] 3.2: _Formulários no React_
-- [X] 3.3: _Projeto - Password Manager_
+##### Seção 3: Aprofundando no React
+- [X] 3.1: _React Router_
+- [X] 3.2: _useEffect_
+- [X] 3.3: _Prática - Clonando o Twitter_
+- [X] 3.4: _Projeto - TrybeTunes_
 
-##### Seção 4: Ciclo de Vida de Componentes e React Router ✅
-- [X] 4.1: _React Router_
-- [X] 4.2: _useEffect_
-- [X] 4.3: _Prática - Clonando o Twitter_
-- [X] 4.4: _Projeto - TrybeTunes_
+##### Seção 4: Testes automatizados com React Testing Library
+- [X] 4.1: _Introdução a React Testing Library_
+- [X] 4.2: _RTL - Mocks_
+- [X] 4.3: _RTL - Testando com React Router_
+- [X] 4.4: _Projeto - Testes em React_
 
-##### Seção 5: Testes automatizados com React Testing Library 📚
-- [X] 5.1: _RTL - Primeiros passos_
-- [X] 5.2: _RTL - Mocks e Inputs_
-- [X] 5.3: _RTL - Testando React Router_
-- [X] 5.4: _Projeto - Testes em React_
+##### Seção 5: Estilização e Metodologia Ágil
+- [X] 5.1: _CSS Modules_
+- [X] 5.2: _Styled Components_
+- [ ] 5.3: _Metodologias Ágeis_
+- [ ] 5.4: _Projeto - Front-end Online Store_
 
-##### Seção 6: Estilização e Metodologias Ágeis
-- [X] 6.1: _CSS Modules_
-- [X] 6.2: _Styled Components_
-- [ ] 6.3: _Metodologias Ágeis_
-- [ ] 6.4: _Projeto - Front-end Online Store_
+##### Seção 6: Gerenciamento de estado com Redux
+- [ ] 6.1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] 6.2: _Usando o Redux no React_
+- [ ] 6.3: _Usando o Redux no React - Prática_
+- [ ] 6.4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 6.5: _Testes em React-Redux_
+- [ ] 6.6: _Projeto - TrybeWallet_
 
-##### Seção 7: Gerenciamento de estado com Redux
-- [ ] 7.1: _Introdução ao Redux - O estado global da aplicação_
-- [ ] 7.2: _Usando o Redux no React_
-- [ ] 7.3: _Usando o Redux no React - Prática_
-- [ ] 7.4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 7.5: _Testes em React-Redux_
-- [ ] 7.6: _Projeto - Trybe Wallet_
+##### Seção 7: Projeto Jogo de Trivia
+- [ ] 7.1: _Projeto - Jogo de Trivia_
 
-##### Seção 8: Projeto Jogo de Trivia
-- [ ] 8.1: _Projeto - Jogo de Trivia_
+##### Seção 8: Context API e React Hooks
+- [ ] 8.1: _React Hooks - useState e useEffect_
+- [ ] 8.2: _Context API_
+- [ ] 8.3: _Custom Hooks_
+- [ ] 8.4: _Projeto - StarWars Datatable com Context API e Hooks_
 
-##### Seção 9: Context API e React Hooks
-- [ ] 9.1: _React Hooks - useState e useEffect_
-- [ ] 9.2: _Context API_
-- [ ] 9.3: _Custom Hooks_
-- [ ] 9.4: _Projeto - StarWars Datatable com Context API e Hooks_
-
-##### Seção 10: Projeto App de Receitas
-- [ ] 10.1: _Projeto - App de Receitas_
+##### Seção 9: Projeto App de Receitas
+- [ ] 9.1: _Projeto - App de Receitas_
 
 ## 3 - Desenvolvimento Back-end :hourglass_flowing_sand:
 
