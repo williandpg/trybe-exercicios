@@ -94,9 +94,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.3: _RTL - Testando React Router_
 - [X] 5.4: _Projeto - Testes em React_
 
-##### Seção 6: Metodologias Ágeis
-- [ ] 6.1: _Metodologias Ágeis_
-- [ ] 6.2: _Projeto - Front-end Online Store_
+##### Seção 6: Estilização e Metodologias Ágeis
+- [X] 6.1: _CSS Modules_
+- [X] 6.2: _Styled Components_
+- [ ] 6.3: _Metodologias Ágeis_
+- [ ] 6.4: _Projeto - Front-end Online Store_
 
 ##### Seção 7: Gerenciamento de estado com Redux
 - [ ] 7.1: _Introdução ao Redux - O estado global da aplicação_
