@@ -97,7 +97,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 5: Estilização e Metodologia Ágil
 - [X] 5.1: _CSS Modules_
 - [X] 5.2: _Styled Components_
-- [ ] 5.3: _Metodologias Ágeis_
+- [X] 5.3: _Metodologias Ágeis_
 - [ ] 5.4: _Projeto - Front-end Online Store_
 
 ##### Seção 6: Gerenciamento de estado com Redux
