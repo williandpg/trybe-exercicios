@@ -98,10 +98,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.1: _CSS Modules_
 - [X] 5.2: _Styled Components_
 - [X] 5.3: _Metodologias Ágeis_
-- [ ] 5.4: _Projeto - Front-end Online Store_
+- [X] 5.4: _Projeto - Front-end Online Store_
 
 ##### Seção 6: Gerenciamento de estado com Redux
-- [ ] 6.1: _Introdução ao Redux - O estado global da aplicação_
+- [X] 6.1: _Introdução ao Redux - O estado global da aplicação_
 - [ ] 6.2: _Usando o Redux no React_
 - [ ] 6.3: _Usando o Redux no React - Prática_
 - [ ] 6.4: _Usando o Redux no React - Actions Assíncronas_
