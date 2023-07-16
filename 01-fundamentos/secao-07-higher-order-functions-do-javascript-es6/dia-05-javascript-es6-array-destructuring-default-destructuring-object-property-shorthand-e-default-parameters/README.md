@@ -10,4 +10,4 @@ _Já o object property shorthand é como um atalho para escrever menos código. 
 
 _Por fim, os default parameters são como uma rede de segurança que te protege contra erros. Com eles, você pode definir valores padrão para parâmetros de uma função, caso eles não sejam fornecidos, como se estivesse colocando um colchão no chão, caso você caia de uma escada._
 
-_Com essas ferramentas, você pode criar códigos mais limpos, mais eficientes e mais seguros. _
+_Com essas ferramentas, você pode criar códigos mais limpos, mais eficientes e mais seguros._
