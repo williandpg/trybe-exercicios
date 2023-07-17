@@ -8,7 +8,7 @@ _O React utiliza uma sintaxe chamada JSX, que combina JavaScript e HTML, para de
 
 _Com o React, os desenvolvedores podem criar aplicativos web complexos de forma mais organizada, modular e escalável. Ele oferece uma ampla gama de recursos, como manipulação de eventos, manipulação de formulários, renderização condicional, gerenciamento de estado e integração com bibliotecas e ferramentas de terceiros._
 
-##### Seção 2: Introdução ao React ✅
+##### Seção 02: Introdução ao React ✅
 - [X] 2.1: _Introdução ao React e ao Typescript_
 - [X] 2.2: _Componentes React e Props_
 - [X] 2.3: _Avançando em componentes_

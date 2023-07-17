@@ -1,10 +1,12 @@
+# Seção 04
+
 _JavaScript é uma linguagem de programação de alto nível que é usada principalmente no desenvolvimento de aplicativos web interativos. O Document Object Model (DOM) é uma interface de programação de aplicativos (API) para documentos HTML e XML que permite manipular e interagir com elementos da página da web usando JavaScript._ 
 
 _Os eventos em JavaScript são ações que ocorrem em uma página da web, como cliques do mouse, carregamento da página, entrada de teclado, entre outros._ 
 
 _O Web Storage é um recurso que permite armazenar dados localmente no navegador do usuário, como chaves e valores, para uso posterior em aplicativos web._
 
-##### Seção 4 - JavaScript: DOM, Eventos e Web Storage ✅
+##### Seção 04 - JavaScript: DOM, Eventos e Web Storage ✅
 
 - [X] 4-1: _JavaScript - DOM e seletores_
 - [X] 4-2: _JavaScript - Trabalhando com elementos_

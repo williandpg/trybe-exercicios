@@ -8,7 +8,7 @@ _A abordagem da React Testing Library é centrada no usuário, incentivando os d
 
 _Com os testes automatizados, os desenvolvedores podem identificar erros e problemas em seus componentes React de forma mais rápida e confiável. Além disso, os testes automatizados permitem a realização de refatorações de código com segurança, garantindo que as alterações não causem regressões no aplicativo._
 
-##### Seção 4: Testes automatizados com React Testing Library ✅
+##### Seção 04: Testes automatizados com React Testing Library ✅
 - [X] 4.1: _Introdução a React Testing Library_
 - [X] 4.2: _RTL - Mocks_
 - [X] 4.3: _RTL - Testando com React Router_

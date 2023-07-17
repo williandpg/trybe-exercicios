@@ -8,7 +8,7 @@ _Git é um sistema de controle de versão distribuído usado para rastrear alter
 
 _GitHub é uma plataforma de hospedagem de código-fonte baseada na web que permite que desenvolvedores armazenem, gerenciem e compartilhem seu código com outros colaboradores, além de fornecer ferramentas para revisão de código, gerenciamento de problemas e integração contínua._
 
-##### Seção 1: Unix, Shell e Git ✅
+##### Seção 01: Unix, Shell e Git ✅
 
 - [X] 1-1: _Unix & Shell_
 - [X] 1-2: _Git- O que é e para que serve_

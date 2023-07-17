@@ -12,7 +12,7 @@ _A metodologia ágil é um conjunto de princípios e práticas que enfatizam a c
 
 _Ao combinar a estilização de componentes com metodologias ágeis, os desenvolvedores podem criar aplicativos web mais flexíveis e responsivos. A estilização modular e independente dos componentes permite a alteração rápida e fácil de estilos, acompanhando as necessidades em constante evolução. Além disso, a entrega incremental e o feedback contínuo facilitam a validação dos estilos com os stakeholders e permitem ajustes rápidos para melhorar a experiência do usuário._
 
-##### Seção 5: Estilização e Metodologia Ágil ✅
+##### Seção 05: Estilização e Metodologia Ágil ✅
 - [X] 5.1: _CSS Modules_
 - [X] 5.2: _Styled Components_
 - [X] 5.3: _Metodologias Ágeis_

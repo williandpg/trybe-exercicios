@@ -4,13 +4,13 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 
 ## 1 - Fundamentos do desenvolvimento ✅
 
-##### Seção 1: Unix, Shell e Git ✅
+##### Seção 01: Unix, Shell e Git ✅
 
 - [X] 1-1: _Unix & Shell_
 - [X] 1-2: _Git- O que é e para que serve_
 - [X] 1-3: _Git & GitHub - Entendendo os comandos_
 
-##### Seção 2: Introdução à HTML e CSS ✅
+##### Seção 02: Introdução à HTML e CSS ✅
 
 - [X] 2-1: _HTML & CSS - Estruturas de página_
 - [X] 2-2: _HTML & CSS - Primeiros passos em CSS_
@@ -18,7 +18,7 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 - [X] 2-4: _HTML Semântico_
 - [X] 2-5: _Projeto - Lessons Learned_
 
-##### Seção 3 - Introdução à JavaScript ✅
+##### Seção 03 - Introdução à JavaScript ✅
 
 - [X] 3-1: _JavaScript - Primeiros Passos_
 - [X] 3-2: _JavaScript - Array e loop For_
@@ -27,7 +27,7 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 - [X] 3-5: _JavaScript ES6- let, const, arrow functions e template literals_
 - [X] 3-6: _Projeto - Playground Functions_
 
-##### Seção 4 - JavaScript: DOM, Eventos e Web Storage ✅
+##### Seção 04 - JavaScript: DOM, Eventos e Web Storage ✅
 
 - [X] 4-1: _JavaScript - DOM e seletores_
 - [X] 4-2: _JavaScript - Trabalhando com elementos_
@@ -36,7 +36,7 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 - [X] 4-5: _Projeto - Arte com Pixels_
 - [X] 4-6: _Projetos - Bônus_
 
-##### Seção 5 - HTML e CSS: Forms, Flexbox e Responsivo ✅
+##### Seção 05 - HTML e CSS: Forms, Flexbox e Responsivo ✅
 
 - [X] 5-1: _HTML & CSS - Forms_
 - [X] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -45,14 +45,14 @@ _Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar s
 - [X] 5-5: _CSS Responsivo - Mobile First_
 - [X] 5-6: _Projeto - Trybewarts_
 
-##### Seção 6 - Introdução à JavaScript ES6 e Testes Unitários ✅
+##### Seção 06 - Introdução à JavaScript ES6 e Testes Unitários ✅
 
 - [X] 6-1: _Fluxo de execeções e manipulação de objetos_
 - [X] 6-2: _Primeiros passos em Jest_
 - [X] 6-3: _Matchers e cobertura de código_
 - [X] 6-4: _Projeto - JavaScript Testes Unitários_
 
-##### Seção 7 - Higher Order Functions do JavaScript ES6 ✅
+##### Seção 07 - Higher Order Functions do JavaScript ES6 ✅
 
 - [X] 7-1: _Introdução ao Higher Order Functions_
 - [X] 7-2: _Higher Order Functions - sort e map_
