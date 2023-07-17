@@ -44,7 +44,7 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 - [X] 6.2: _Usando o Redux no React_
 - [X] 6.3: _Usando o Redux no React - Prática_
 - [X] 6.4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 6.5: _Testes em React-Redux_
+- [X] 6.5: _Testes em React-Redux_
 - [ ] 6.6: _Projeto - TrybeWallet_
 
 ##### Seção 7: Projeto Jogo de Trivia
