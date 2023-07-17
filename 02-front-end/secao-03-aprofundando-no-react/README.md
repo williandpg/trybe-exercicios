@@ -6,7 +6,7 @@ _O React Router é uma biblioteca que facilita a implementação de roteamento e
 
 _O useEffect é um hook do React que permite aos desenvolvedores lidar com efeitos colaterais em componentes funcionais. Através do useEffect, é possível executar ações como chamadas a APIs externas, manipulação do DOM, assinatura e cancelamento de eventos, entre outros. Aprofundar-se no useEffect envolve compreender os diferentes casos de uso, como a execução de efeitos apenas uma vez, a dependência de variáveis específicas e a limpeza de efeitos quando o componente é desmontado._
 
-##### Seção 3: Aprofundando no React
+##### Seção 3: Aprofundando no React ✅
 - [X] 3.1: _React Router_
 - [X] 3.2: _useEffect_
 - [X] 3.3: _Prática - Clonando o Twitter_
