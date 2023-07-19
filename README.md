@@ -106,7 +106,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.3: _Usando o Redux no React - Prática_
 - [X] 6.4: _Usando o Redux no React - Actions Assíncronas_
 - [X] 6.5: _Testes em React-Redux_
-- [ ] 6.6: _Projeto - TrybeWallet_
+- [X] 6.6: _Projeto - TrybeWallet_
 
 ##### Seção 7: Projeto Jogo de Trivia
 - [ ] 7.1: _Projeto - Jogo de Trivia_
