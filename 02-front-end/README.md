@@ -48,13 +48,13 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 - [X] 6.6: _Projeto - TrybeWallet_
 
 ##### Seção 07: Projeto Jogo de Trivia
-- [ ] 7.1: _Projeto - Jogo de Trivia_
+- [X] 7.1: _Projeto - Jogo de Trivia_
 
 ##### Seção 08: Context API e React Hooks
-- [ ] 8.1: _React Hooks - useState e useEffect_
-- [ ] 8.2: _Context API_
-- [ ] 8.3: _Custom Hooks_
-- [ ] 8.4: _Projeto - StarWars Datatable com Context API e Hooks_
+- [X] 8.1: _React Hooks - useState e useEffect_
+- [X] 8.2: _Context API_
+- [X] 8.3: _Custom Hooks_
+- [X] 8.4: _Projeto - StarWars Datatable com Context API e Hooks_
 
 ##### Seção 09: Projeto App de Receitas
-- [ ] 9.1: _Projeto - App de Receitas_
+- [X] 9.1: _Projeto - App de Receitas_

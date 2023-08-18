@@ -109,16 +109,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.6: _Projeto - TrybeWallet_
 
 ##### Seção 7: Projeto Jogo de Trivia
-- [ ] 7.1: _Projeto - Jogo de Trivia_
+- [X] 7.1: _Projeto - Jogo de Trivia_
 
 ##### Seção 8: Context API e React Hooks
-- [ ] 8.1: _React Hooks - useState e useEffect_
-- [ ] 8.2: _Context API_
-- [ ] 8.3: _Custom Hooks_
-- [ ] 8.4: _Projeto - StarWars Datatable com Context API e Hooks_
+- [X] 8.1: _React Hooks - useState e useEffect_
+- [X] 8.2: _Context API_
+- [X] 8.3: _Custom Hooks_
+- [X] 8.4: _Projeto - StarWars Datatable com Context API e Hooks_
 
 ##### Seção 9: Projeto App de Receitas
-- [ ] 9.1: _Projeto - App de Receitas_
+- [X] 9.1: _Projeto - App de Receitas_
 
 ## 3 - Desenvolvimento Back-end :hourglass_flowing_sand:
 
