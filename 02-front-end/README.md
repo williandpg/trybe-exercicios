@@ -47,14 +47,11 @@ _Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para d
 - [X] 6.5: _Testes em React-Redux_
 - [X] 6.6: _Projeto - TrybeWallet_
 
-##### Seção 07: Projeto Jogo de Trivia
-- [X] 7.1: _Projeto - Jogo de Trivia_
+##### Seção 7: Context API e React Hooks
+- [X] 7.1: _React Hooks - useState e useEffect_
+- [X] 7.2: _Context API_
+- [X] 7.3: _Custom Hooks_
+- [X] 7.4: _Projeto - StarWars Datatable com Context API e Hooks_
 
-##### Seção 08: Context API e React Hooks
-- [X] 8.1: _React Hooks - useState e useEffect_
-- [X] 8.2: _Context API_
-- [X] 8.3: _Custom Hooks_
-- [X] 8.4: _Projeto - StarWars Datatable com Context API e Hooks_
-
-##### Seção 09: Projeto App de Receitas
-- [X] 9.1: _Projeto - App de Receitas_
+##### Seção 8: Projeto App de Receitas
+- [X] 8.1: _Projeto - App de Receitas_
