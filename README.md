@@ -120,16 +120,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## 3 - Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Seção 1: Docker: Utilizando Containers
-- [ ] 1.1: _Utilizando Containers - Docker_
-- [ ] 1.2: _Manipulando Imagens no Docker_
-- [ ] 1.3: _Orquestrando Containers com Docker Compose_
-- [ ] 1.4: _Projeto - Docker Todo-list_
+- [X] 1.1: _Utilizando Containers - Docker_
+- [X] 1.2: _Manipulando Imagens no Docker_
+- [X] 1.3: _Orquestrando Containers com Docker Compose_
+- [X] 1.4: _Projeto - Docker Todo-list_
 
 ##### Seção 2: Introdução à SQL
-- [ ] 2.1: _Banco de dados SQL_
-- [ ] 2.2: _Encontrando dados em um banco de dados_
-- [ ] 2.3: _Filtrando dados de forma específica_
-- [ ] 2.4: _Manipulando tabelas_
+- [X] 2.1: _Banco de dados SQL_
+- [X] 2.2: _Encontrando dados em um banco de dados_
+- [X] 2.3: _Filtrando dados de forma específica_
+- [X] 2.4: _Manipulando tabelas_
 - [ ] 2.5: _Projeto - All For One_
 
 ##### Seção 3: Funções SQL, JOINs e Normalização

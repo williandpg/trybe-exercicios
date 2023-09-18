@@ -14,7 +14,7 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 2.1: _Banco de dados SQL_
 - [X] 2.2: _Encontrando dados em um banco de dados_
 - [X] 2.3: _Filtrando dados de forma específica_
-- [ ] 2.4: _Manipulando tabelas_
+- [X] 2.4: _Manipulando tabelas_
 - [ ] 2.5: _Projeto - All For One_
 
 ##### Seção 3: Funções SQL, JOINs e Normalização
