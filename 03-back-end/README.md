@@ -18,7 +18,7 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 2.5: _Projeto - All For One_
 
 ##### Seção 3: Funções SQL, JOINs e Normalização
-- [ ] 3.1: _Funções mais usadas no SQL_
+- [X] 3.1: _Funções mais usadas no SQL_
 - [ ] 3.2: _Descomplicando JOINs_
 - [ ] 3.3: _Transformando ideias em um modelo de bancos de dados_
 - [ ] 3.4: _Aula ao vivo + Projeto - One For All_
