@@ -24,7 +24,7 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 3.4: _Projeto - One For All_
 
 ##### Seção 4: Introdução ao desenvolvimento Web com NodeJS
-- [ ] 4.1: _NodeJS - Runtime Assíncrono_
+- [X] 4.1: _NodeJS - Runtime Assíncrono_
 - [ ] 4.2: _NodeJS - API REST com Express_
 - [ ] 4.3: _NodeJS - Testes de Integração_
 - [ ] 4.4: _NodeJS - Express e Middlewares_
