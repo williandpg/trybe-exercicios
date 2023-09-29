@@ -1,0 +1,16 @@
+{
+  "name": "exercicio-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fibonacci.js",
+    "fibonacci": "node fibonacci.js"
+  },
+  "author": "willian gonçalves",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
+}
