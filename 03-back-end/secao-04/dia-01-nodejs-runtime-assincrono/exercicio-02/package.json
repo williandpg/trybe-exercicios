@@ -1,0 +1,13 @@
+{
+  "name": "exercicio-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node simpsons.js",
+    "simpsons": "node simpsons.js"
+  },
+  "author": "willian goncalves",
+  "license": "ISC"
+}
