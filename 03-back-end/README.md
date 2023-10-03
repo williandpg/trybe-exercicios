@@ -26,8 +26,8 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 ##### Seção 4: Introdução ao desenvolvimento Web com NodeJS
 - [X] 4.1: _NodeJS - Runtime Assíncrono_
 - [X] 4.2: _NodeJS - API REST com Express_
-- [ ] 4.3: _NodeJS - Testes de Integração_
-- [ ] 4.4: _NodeJS - Express e Middlewares_
+- [X] 4.3: _NodeJS - Testes de Integração_
+- [X] 4.4: _NodeJS - Express e Middlewares_
 - [ ] 4.5: _NodeJS - Express e MySQL_
 - [ ] 4.6: _Projeto - Talker manager_
 
