@@ -32,10 +32,12 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 4.6: _Projeto - Talker manager_
 
 ##### Seção 5: Arquitetura de Software: Model, Service e Controller
-- [ ] 5.1: _Arquitetura de Software: Camada Model_
-- [ ] 5.2: _Arquitetura de Software: Camada Service_
-- [ ] 5.3: _Arquitetura de Software: Camada Controller_
-- [ ] 5.4: _Projeto - Store Manager_
+- [X] 5.1: _Arquitetura de Software: Camada Model_
+- [X] 5.2: _Arquitetura de Software: Refatorando a Camada Model_
+- [X] 5.3: _Arquitetura de Software: Camada Service_
+- [X] 5.4: _Arquitetura de Software: Refatorando a Camada Service_
+- [X] 5.5: _Arquitetura de Software: Refatorando a Camada Controller_
+- [ ] 5.6: _Projeto - Store Manager_
 
 ##### Seção 6: NodeJS: ORM e Autenticação
 - [ ] 6.1: _ORM - Interface da aplicação com o banco de dados_
