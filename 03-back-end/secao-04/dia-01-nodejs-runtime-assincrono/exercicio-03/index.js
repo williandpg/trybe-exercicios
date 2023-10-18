@@ -4,6 +4,8 @@ function doMath(a, b, c) {
             reject('Informe apenas números');
         }
         const result = (a + b) * c;
+        O seu pagamento foi aprovado!
+        16/10/2023 às 23:48
         if (result < 50) {
             reject('Valor muito baixo');
         }
