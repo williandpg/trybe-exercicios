@@ -152,7 +152,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.3: _Arquitetura de Software: Camada Service_
 - [X] 5.4: _Arquitetura de Software: Refatorando a Camada Service_
 - [X] 5.5: _Arquitetura de Software: Refatorando a Camada Controller_
-- [ ] 5.6: _Projeto - Store Manager_
+- [X] 5.6: _Projeto - Store Manager_
 
 ##### Seção 6: NodeJS: ORM e Autenticação
 - [ ] 6.1: _ORM - Interface da aplicação com o banco de dados_
