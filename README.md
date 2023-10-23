@@ -63,7 +63,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7-5: _JavaScript ES6 - Array destructuring, default destructuring, object property shorthand e default parameters_
 - [X] 7-6: _Projeto - Zoo Functions_
 
-## 2 - Desenvolvimento Front-end 📚
+## 2 - Desenvolvimento Front-end ✅
 
 ##### Seção 1: Introdução ao Front-end e JavaScript assíncrono
 - [X] 1.1: _Ambiente de desenvolvimento_
@@ -117,7 +117,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 8: Projeto App de Receitas
 - [X] 8.1: _Projeto - App de Receitas_
 
-## 3 - Desenvolvimento Back-end :hourglass_flowing_sand:
+## 3 - Desenvolvimento Back-end 📚
 
 ##### Seção 1: Docker: Utilizando Containers
 - [X] 1.1: _Utilizando Containers - Docker_
