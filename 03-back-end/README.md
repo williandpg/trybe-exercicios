@@ -43,7 +43,7 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 6.1: _ORM - Interface da aplicação com o banco de dados_
 - [X] 6.2: _ORM - Associations 1:1 e 1:N_
 - [X] 6.3: _ORM - Associations N:N e Transactions_
-- [ ] 6.4: _JWT - (JSON Web Token)_
+- [X] 6.4: _JWT - (JSON Web Token)_
 - [ ] 6.5: _Projeto - API de Blogs_
 
 ##### Seção 7: Masterclass: Implantação de Aplicações na Nuvem
