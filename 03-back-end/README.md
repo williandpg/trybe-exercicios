@@ -47,10 +47,10 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 6.5: _Projeto - API de Blogs_
 
 ##### Seção 7: Masterclass: Implantação de Aplicações na Nuvem
-- [ ] 7.1: _Infraestrutura: Deploy com Railway_
+- [X] 7.1: _Infraestrutura: Deploy com Railway_
 
 ##### Seção 8: Introdução ao TypeScript
-- [ ] 8.1: _Introdução ao TypeScript_
+- [X] 8.1: _Introdução ao TypeScript_
 - [ ] 8.2: _Tipagem Estática e Generics_
 - [ ] 8.3: _Express com TypeScript_
 - [ ] 8.4: _Projeto - Trybesmith_
