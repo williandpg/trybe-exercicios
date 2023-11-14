@@ -166,7 +166,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 8: Introdução ao TypeScript
 - [X] 8.1: _Introdução ao TypeScript_
-- [ ] 8.2: _Tipagem Estática e Generics_
+- [X] 8.2: _Tipagem Estática e Generics_
 - [ ] 8.3: _Express com TypeScript_
 - [ ] 8.4: _Projeto - Trybesmith_
 
