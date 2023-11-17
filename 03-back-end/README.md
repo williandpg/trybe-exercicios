@@ -52,8 +52,9 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 ##### Seção 8: Introdução ao TypeScript
 - [X] 8.1: _Introdução ao TypeScript_
 - [X] 8.2: _Tipagem Estática e Generics_
-- [X] 8.3: _Express com TypeScript_
-- [ ] 8.4: _Projeto - Trybesmith_
+- [X] 8.3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [X] 8.4: _Testando Aplicações com TypeScript_
+- [ ] 8.5: _Projeto - Trybesmith_
 
 ##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
 - [ ] 9.1: _Introdução à Orientação a Objetos_
