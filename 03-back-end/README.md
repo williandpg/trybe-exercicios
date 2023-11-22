@@ -54,10 +54,10 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 8.2: _Tipagem Estática e Generics_
 - [X] 8.3: _API REST com Express, JWT, Sequelize e TypeScript_
 - [X] 8.4: _Testando Aplicações com TypeScript_
-- [ ] 8.5: _Projeto - Trybesmith_
+- [X] 8.5: _Projeto - Trybesmith_
 
 ##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
-- [ ] 9.1: _Introdução à Orientação a Objetos_
+- [X] 9.1: _Introdução à Orientação a Objetos_
 - [ ] 9.2: _Herança e Composição_
 - [ ] 9.3: _Polimorfismo_
 - [ ] 9.4: _SOLID - Introdução e Princípios S, O e D_
