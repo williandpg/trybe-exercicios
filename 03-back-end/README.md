@@ -58,7 +58,7 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 
 ##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
 - [X] 9.1: _Introdução à Orientação a Objetos_
-- [ ] 9.2: _Herança e Composição_
+- [X] 9.2: _Herança e Composição_
 - [ ] 9.3: _Polimorfismo_
 - [ ] 9.4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 9.5: _SOLID - Princípios L e I_
