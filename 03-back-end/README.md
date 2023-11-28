@@ -60,8 +60,8 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 - [X] 9.1: _Introdução à Orientação a Objetos_
 - [X] 9.2: _Herança e Composição_
 - [X] 9.3: _Polimorfismo_
-- [ ] 9.4: _SOLID - Introdução e Princípios S, O e D_
-- [ ] 9.5: _SOLID - Princípios L e I_
+- [X] 9.4: _SOLID - Introdução e Princípios S, O e D_
+- [X] 9.5: _SOLID - Princípios L e I_
 - [ ] 9.6: _Projeto - Trybers and Dragons_
 
 ##### Seção 10: Projeto TFC - Trybe Futebol Clube
