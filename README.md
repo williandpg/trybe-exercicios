@@ -180,7 +180,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9.6: _Projeto - Trybers and Dragons_
 
 ##### Seção 10: Projeto TFC - Trybe Futebol Clube
-- [ ] 10.1: _Express com Classes_
+- [X] 10.1: _Express com Classes_
 - [ ] 10.2: _Projeto - TFC - Trybe Futebol Clube_
 
 ##### Seção 11: Introdução ao MongoDB
