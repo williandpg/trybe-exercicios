@@ -66,7 +66,7 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 
 ##### Seção 10: Projeto TFC - Trybe Futebol Clube
 - [X] 10.1: _Express com Classes_
-- [ ] 10.2: _Projeto - TFC - Trybe Futebol Clube_
+- [X] 10.2: _Projeto - TFC - Trybe Futebol Clube_
 
 ##### Seção 11: Introdução ao MongoDB
 - [ ] 11.1: _MongoDB - Introdução_
