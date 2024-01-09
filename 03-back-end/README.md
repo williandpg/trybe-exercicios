@@ -67,19 +67,3 @@ _Neste módulo, você vai aprender como desenvolver um código de back-end robus
 ##### Seção 10: Projeto TFC - Trybe Futebol Clube
 - [X] 10.1: _Express com Classes_
 - [X] 10.2: _Projeto - TFC - Trybe Futebol Clube_
-
-##### Seção 11: Introdução ao MongoDB
-- [ ] 11.1: _MongoDB - Introdução_
-- [ ] 11.2: _Filter Operators_
-- [ ] 11.3: _Operadores de consulta_
-- [ ] 11.4: _Updates Simples_
-- [ ] 11.5: _Updates Complexos - Arrays_
-- [ ] 11.6: _Projeto - Commerce_
-
-##### Seção 12: APIs OO e NoSQL
-- [ ] 12.1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
-- [ ] 12.2: _APIs orientadas a objetos e NoSQL: Herança e Abstração_
-- [ ] 12.3: _Projeto - Car Shop_
-
-##### Seção 13: Projeto - App de Delivery
-- [ ] 13.1: _Projeto - App de Delivery_
