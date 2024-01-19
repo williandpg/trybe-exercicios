@@ -5,7 +5,7 @@ _Aqui você aprenderá os principais conceitos da Ciência da Computação que s
 ## 4 - Ciência da Computação :hourglass_flowing_sand:
 
 ##### Seção 1: Introdução à Python
-- [ ] 1.1: _Aprendendo Python_
+- [X] 1.1: _Aprendendo Python_
 - [ ] 1.2: _Entrada e Saída de dados_
 - [ ] 1.3: _Testes_
 - [ ] 1.4: _Projeto - Job Insights_
