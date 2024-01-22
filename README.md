@@ -187,15 +187,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Introdução à Python
 - [X] 1.1: _Aprendendo Python_
-- [ ] 1.2: _Entrada e Saída de dados_
-- [ ] 1.3: _Testes_
-- [ ] 1.4: _Projeto - Job Insights_
+- [X] 1.2: _Entrada e Saída de dados com testes_
+- [X] 1.3: _P.O.O. em Python_
+- [X] 1.4: _Projeto - Job Insights_
 
 ##### Seção 2: Padrões de Projetos
-- [ ] 2.1: _P.O.O. em Python_
-- [ ] 2.2: _Padrões - Interator, Adapter e Strategy_
-- [ ] 2.3: _Padrões - Decorator, Observer e Factory_
-- [ ] 2.4: _Projeto - Relatórios de Estoque_
+- [X] 2.1: _Complexidade de algoritmos_
+- [ ] 2.2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 2.3: _Algoritmos de ordenação e busca_
+- [ ] 2.4: _Projeto - Algoritmos_
 
 ##### Seção 3: Raspagem de Dados
 - [ ] 3.1: _Raspagem de Dados_
