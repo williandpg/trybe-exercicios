@@ -193,7 +193,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 2: Padrões de Projetos
 - [X] 2.1: _Complexidade de algoritmos_
-- [ ] 2.2: _Recursividade e Estratégias para solução de problemas_
+- [X] 2.2: _Recursividade e Estratégias para solução de problemas_
 - [ ] 2.3: _Algoritmos de ordenação e busca_
 - [ ] 2.4: _Projeto - Algoritmos_
 
