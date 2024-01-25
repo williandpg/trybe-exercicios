@@ -13,8 +13,8 @@ _Aqui você aprenderá os principais conceitos da Ciência da Computação que s
 ##### Seção 2: Padrões de Projetos
 - [X] 2.1: _Complexidade de algoritmos_
 - [X] 2.2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 2.3: _Algoritmos de ordenação e busca_
-- [ ] 2.4: _Projeto - Algoritmos_
+- [X] 2.3: _Algoritmos de ordenação e busca_
+- [X] 2.4: _Projeto - Algoritmos_
 
 ##### Seção 3: Raspagem de Dados
 - [ ] 3.1: _Raspagem de Dados_
