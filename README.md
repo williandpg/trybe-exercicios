@@ -197,11 +197,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 2.3: _Algoritmos de ordenação e busca_
 - [X] 2.4: _Projeto - Algoritmos_
 
-##### Seção 3: Raspagem de Dados
-- [ ] 3.1: _Raspagem de Dados_
-- [ ] 3.2: _Outras ferramentas de raspagem de dados_
-- [ ] 3.3: _Dia de Atividades - Crawlers + POO_
-- [ ] 3.4: _Projeto - Tech News_
+##### Seção 3: Estruturas de Dados I: Listas Lineares
+- [X] 3.1: _Arrays_
+- [ ] 3.2: _Nó e Listas Encadeadas_
+- [ ] 3.3: _Pilhas e Filas_
+- [ ] 3.4: _Projeto - TING (Trybe Is Not Google)_
 
 ##### Seção 4: Algoritmos
 - [ ] 4.1: _Complexidade de Algoritmos_
