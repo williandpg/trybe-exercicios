@@ -19,7 +19,7 @@ _Aqui você aprenderá os principais conceitos da Ciência da Computação que s
 ##### Seção 3: Estruturas de Dados I: Listas Lineares
 - [X] 3.1: _Arrays_
 - [X] 3.2: _Nó e Listas Encadeadas_
-- [ ] 3.3: _Pilhas e Filas_
+- [X] 3.3: _Pilhas e Filas_
 - [ ] 3.4: _Projeto - TING (Trybe Is Not Google)_
 
 ##### Seção 4: Algoritmos
