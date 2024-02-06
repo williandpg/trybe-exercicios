@@ -204,6 +204,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.4: _Projeto - TING (Trybe Is Not Google)_
 
 ##### Seção 4: Estrutura de Dados II: Hashmaps e Sets
-- [ ] 4.1: _Hashmap e Dict_
+- [X] 4.1: _Hashmap e Dict_
 - [ ] 4.2: _Set_
 - [ ] 4.3: _Projeto - Restaurant Orders_
