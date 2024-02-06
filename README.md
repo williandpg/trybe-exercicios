@@ -203,21 +203,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.3: _Pilhas e Filas_
 - [X] 3.4: _Projeto - TING (Trybe Is Not Google)_
 
-##### Seção 4: Algoritmos
-- [ ] 4.1: _Complexidade de Algoritmos_
-- [ ] 4.2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 4.3: _Algoritmos de ordenação e busca_
-- [ ] 4.4: _Projeto - Algoritmos_
-
-##### Seção 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
-- [ ] 5.1: _Arquitetura de Computadores_ 
-- [ ] 5.2: _Arquitetura de redes_
-- [ ] 5.3: _Arrays_
-- [ ] 5.4: _Nó e Listas Encadeadas_
-- [ ] 5.5: _Pilhas e Filas_
-- [ ] 5.6: _Projeto - TING - Trybe Is Not Google_
-
-##### Seção 6: Estrutura de Dados II: Hashmaps e Sets
-- [ ] 6.1: _Hashmap e Dict_
-- [ ] 6.2: _Set_
-- [ ] 6.3: _Projeto - Restaurant Orders_
+##### Seção 4: Estrutura de Dados II: Hashmaps e Sets
+- [ ] 4.1: _Hashmap e Dict_
+- [ ] 4.2: _Set_
+- [ ] 4.3: _Projeto - Restaurant Orders_
