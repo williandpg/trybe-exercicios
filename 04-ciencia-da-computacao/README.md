@@ -25,4 +25,4 @@ _Aqui você aprenderá os principais conceitos da Ciência da Computação que s
 ##### Seção 4: Estrutura de Dados II: Hashmaps e Sets
 - [X] 4.1: _Hashmap e Dict_
 - [X] 4.2: _Set_
-- [ ] 4.3: _Projeto - Restaurant Orders_
+- [X] 4.3: _Projeto - Restaurant Orders_

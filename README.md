@@ -206,4 +206,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 4: Estrutura de Dados II: Hashmaps e Sets
 - [X] 4.1: _Hashmap e Dict_
 - [X] 4.2: _Set_
-- [ ] 4.3: _Projeto - Restaurant Orders_
+- [X] 4.3: _Projeto - Restaurant Orders_
