@@ -183,7 +183,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 10.1: _Express com Classes_
 - [X] 10.2: _Projeto - TFC - Trybe Futebol Clube_
 
-## 4 - Ciência da Computação 📚
+## 4 - Ciência da Computação ✅
 
 ##### Seção 1: Introdução à Python
 - [X] 1.1: _Aprendendo Python_
