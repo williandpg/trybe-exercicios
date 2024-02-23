@@ -214,7 +214,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.1: _Introdução ao Desenvolvimento em Java e Ferramentas Essenciais_
 - [X] 1.2: _Classes e Tipos de Dados_
 - [X] 1.3: _Controle de Fluxo e Entrada de Dados_
-- [ ] 1.4: _Gerenciamento de Dependências_
+- [X] 1.4: _Gerenciamento de Dependências_
 - [ ] 1.5: _Projeto - Minha Conta_
 
 ##### Seção 2: Orientação a Objetos
