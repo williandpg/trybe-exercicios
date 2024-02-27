@@ -218,7 +218,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.5: _Projeto - Minha Conta_
 
 ##### Seção 2: Orientação a Objetos
-- [ ] 2.1: _Abstração e Encapsulamento_
+- [X] 2.1: _Abstração e Encapsulamento_
 - [ ] 2.2: _Herança e Polimorfismo_
 - [ ] 2.3: _Classes Abstratas e Interfaces_
 - [ ] 2.4: _Projeto - Sistema de Votação_
