@@ -9,7 +9,7 @@
 
 ##### Seção 2: Orientação a Objetos
 - [X] 2.1: _Abstração e Encapsulamento_
-- [ ] 2.2: _Herança e Polimorfismo_
+- [X] 2.2: _Herança e Polimorfismo_
 - [ ] 2.3: _Classes Abstratas e Interfaces_
 - [ ] 2.4: _Projeto - Sistema de Votação_
 
