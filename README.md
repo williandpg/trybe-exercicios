@@ -220,7 +220,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 2: Orientação a Objetos
 - [X] 2.1: _Abstração e Encapsulamento_
 - [X] 2.2: _Herança e Polimorfismo_
-- [ ] 2.3: _Classes Abstratas e Interfaces_
+- [X] 2.3: _Classes Abstratas e Interfaces_
 - [ ] 2.4: _Projeto - Sistema de Votação_
 
 ##### Seção 3: Java Web
