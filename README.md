@@ -221,10 +221,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 2.1: _Abstração e Encapsulamento_
 - [X] 2.2: _Herança e Polimorfismo_
 - [X] 2.3: _Classes Abstratas e Interfaces_
-- [ ] 2.4: _Projeto - Sistema de Votação_
+- [X] 2.4: _Projeto - Sistema de Votação_
 
 ##### Seção 3: Java Web
-- [ ] 3.1: _Introdução a Java Web e Spring_
+- [X] 3.1: _Introdução a Java Web e Spring_
 - [ ] 3.2: _Injeção de Dependência com Spring_
 - [ ] 3.3: _API REST com Spring_
 - [ ] 3.4: _Aula ao vivo_
