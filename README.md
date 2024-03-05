@@ -254,3 +254,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 7: Deploy
 - [ ] 7.1: _Protocolos de Computação e Programação em Nuvem_
 - [ ] 7.2: _CI/CD_
+
+Título
+índice
+descrição do projeto
+link para pág (front-end)
+2 print (front-end)
+tecnologias utilizadas
+funcionalidades
+status do projeto*
+colaboradores
+créditos
+end-point (back-end)
+versão inglês nos pinados
