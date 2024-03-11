@@ -16,9 +16,9 @@
 ##### Seção 3: Java Web
 - [X] 3.1: _Introdução a Java Web e Spring_
 - [X] 3.2: _Injeção de Dependência com Spring_
-- [ ] 3.3: _API REST com Spring_
-- [ ] 3.4: _Aula ao vivo_
-- [ ] 3.5: _Exceções_
+- [X] 3.3: _API REST com Spring_
+- [X] 3.4: _Aula ao vivo_
+- [X] 3.5: _Exceções_
 - [ ] 3.6: _Testes com JUnit_
 - [ ] 3.7: _Containers Java e Docker_
 - [ ] 3.8: _Projeto - Localizador de Museus_
