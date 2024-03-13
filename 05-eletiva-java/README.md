@@ -21,7 +21,7 @@
 - [X] 3.5: _Exceções_
 - [X] 3.6: _Testes com JUnit_
 - [X] 3.7: _Containers Java e Docker_
-- [ ] 3.8: _Projeto - Localizador de Museus_
+- [X] 3.8: _Projeto - Localizador de Museus_
 
 ##### Seção 4: Persistência I
 - [ ] 4.1: _Coleções_
