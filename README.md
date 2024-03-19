@@ -234,7 +234,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.8: _Projeto - Localizador de Museus_
 
 ##### Seção 4: Persistência I
-- [ ] 4.1: _Coleções_
+- [X] 4.1: _Coleções_
 - [ ] 4.2: _Spring Data JPA_
 - [ ] 4.3: _Spring Data Relacionamentos_
 - [ ] 4.4: _Projeto - Agrix Fase A_
