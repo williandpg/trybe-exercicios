@@ -26,7 +26,7 @@
 ##### Seção 4: Persistência I
 - [X] 4.1: _Coleções_
 - [X] 4.2: _Spring Data JPA_
-- [ ] 4.3: _Spring Data Relacionamentos_
+- [X] 4.3: _Spring Data Relacionamentos_
 - [ ] 4.4: _Projeto - Agrix Fase A_
 
 ##### Seção 5: Persistência II
