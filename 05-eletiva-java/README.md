@@ -30,7 +30,7 @@
 - [X] 4.4: _Projeto - Agrix Fase A_
 
 ##### Seção 5: Persistência II
-- [ ] 5.1: _Testes com Spring Data_
+- [X] 5.1: _Testes com Spring Data_
 - [ ] 5.2: _Data e Hora_
 - [ ] 5.3: _Buscas Customizadas_
 - [ ] 5.4: _Auditoria_
