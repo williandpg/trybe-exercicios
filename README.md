@@ -244,7 +244,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.2: _Data e Hora_
 - [X] 5.3: _Buscas Customizadas_
 - [X] 5.4: _Auditoria_
-- [ ] 5.5: _Projeto - Agrix Fase B_
+- [X] 5.5: _Projeto - Agrix Fase B_
 
 ##### Seção 6: Spring Security
 - [ ] 6.1: _Autenticação_
