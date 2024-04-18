@@ -37,7 +37,7 @@
 - [X] 5.5: _Projeto - Agrix Fase B_
 
 ##### Seção 6: Spring Security
-- [ ] 6.1: _Autenticação_
+- [X] 6.1: _Autenticação_
 - [ ] 6.2: _Autorização_
 - [ ] 6.3: _Projeto - Agrix Fase C_
 
