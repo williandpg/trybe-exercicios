@@ -248,9 +248,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 6: Spring Security
 - [X] 6.1: _Autenticação_
-- [ ] 6.2: _Autorização_
-- [ ] 6.3: _Projeto - Agrix Fase C_
+- [X] 6.2: _Autorização_
+- [X] 6.3: _Projeto - Agrix Fase C_
 
 ##### Seção 7: Deploy
-- [ ] 7.1: _Protocolos de Computação e Programação em Nuvem_
-- [ ] 7.2: _CI/CD_
+- [X] 7.1: _Protocolos de Computação e Programação em Nuvem_
+- [X] 7.2: _CI/CD_
