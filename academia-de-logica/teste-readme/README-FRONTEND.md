@@ -47,12 +47,12 @@ DESCRIÇÃO.......................
 
 Como executar e acessar o projeto localmente.
 
-<!-- <h3>Prerequisites</h3>
+<h3>Prerequisites</h3>
 
 Here you list all prerequisites necessary for running your project. For example:
 
 - [NodeJS](https://github.com/)
-- [Git 2](https://github.com) -->
+- [Git 2](https://github.com)
 
 <h3>Clonando</h3>
 
